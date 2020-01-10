@@ -8,6 +8,6 @@ void main() {
     list.add(new Dog("Spike"));
 
     foreach (Animal a in list) {
-        stdout.printf(GLib.Type.from_instance(a).name() + @" named $(a.name)\n");
+        stdout.printf(GLib.Type.from_instance(a).name() + @" llamado $(a.name)\n");
     }
 }
