@@ -1,1 +1,1 @@
-go to `src/` and run `make`
+Ir a la carpeta `src/` en un terminal y ejecutar el comando `make`
